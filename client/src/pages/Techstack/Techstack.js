@@ -7,7 +7,7 @@ const Techstack = () => {
   return (
     <>
         <div className='container techstack'>
-            <h1>Technology Stack</h1>
+            <h1>TECHNOLOGY STACK</h1>
             <p><FaHandPointRight /> It Includes programming languages, frameworks, databases and development tools.</p>
             <div className='row'>
                 { TechstackList.map((tech) => (
