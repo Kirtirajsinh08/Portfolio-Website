@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29013f4d.css",
+    "main.js": "/static/js/main.ac63e109.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/Contact Me.gif": "/static/media/Contact Me.5635e3dbeb21e6e987c0.gif",
+    "static/media/Kirtirajsinh-Parmar-Resume.pdf": "/static/media/Kirtirajsinh-Parmar-Resume.8f836f592bedd7dfe05b.pdf",
+    "static/media/5.jpeg": "/static/media/5.b0104c17fb1338391764.jpeg",
+    "static/media/MyPic.jpg": "/static/media/MyPic.b9857dadecfbc31ac331.jpg",
+    "static/media/4.jpeg": "/static/media/4.7e641b7dac282f2c836d.jpeg",
+    "static/media/9.jpg": "/static/media/9.1e21a73c0a57fc32f49a.jpg",
+    "static/media/1.png": "/static/media/1.9dcbbae7380e9687339f.png",
+    "static/media/8.jpg": "/static/media/8.6b80fd7e6d19afb67e85.jpg",
+    "static/media/3.jpg": "/static/media/3.f3cac458e54de8a538ab.jpg",
+    "static/media/7.jpg": "/static/media/7.0f796e421a56fcbceead.jpg",
+    "index.html": "/index.html",
+    "main.29013f4d.css.map": "/static/css/main.29013f4d.css.map",
+    "main.ac63e109.js.map": "/static/js/main.ac63e109.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29013f4d.css",
+    "static/js/main.ac63e109.js"
+  ]
+}
